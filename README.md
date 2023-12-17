@@ -2,7 +2,7 @@
 - 👀 I’m interested in work as Business Intelligence or Data Analyst
 - 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to collaborate on anything, I like to learn from anywant!
-- 📫 You can reach me, sending me an email, daniela.hdez1510@gmail.com
+- 📫 You can reach me, sending me an email, daniela.hdez1510@gmail.com and here!
 
 <!---
 DanielaHdzS/DanielaHdzS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
