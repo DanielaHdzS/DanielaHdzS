@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniela Hernandez, I'm from Mexico and I studied Civil Engineer. 
 - 👀 I’m interested in work as Business Intelligence or Data Analyst
 - 🌱 I’m currently learning Python and SQL.
-- 💞️ I’m looking to collaborate on anything, I like to learn from anywant!
+- 💞️ I’m looking to collaborate on anything, I like to learn from anyone!
 - 📫 You can reach me, sending me an email, daniela.hdez1510@gmail.com and here!
 
 <!---
